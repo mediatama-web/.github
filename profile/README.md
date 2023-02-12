@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td width="25%">
-            <img src="image/office.webp">
+            <img src="https://raw.githubusercontent.com/mediatama-web/.github/main/profile/image/office.webp">
         </td>
         <td>
             <b>CV. Mediatama Web Indonesia</b> merupakan perusahaan yang bergerak di bidang jasa pembuatan website dan aplikasi yang berbasis data lainnya. Kami juga lebih memfokuskan dan menitikberatkan dalam memberikan layanan pembuatan, pengembangan, dan memaksimalkan kinerja software dan website. Sistem perancangan website dan aplikasi yang kami kembangkan mempertimbangkan nilai estetika, fungsionalitas dan nilai tambah.
